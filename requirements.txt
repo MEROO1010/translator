@@ -1,0 +1,1 @@
+fastapi==0.95.2\nuvicorn==0.22.0\nopenai==0.27.8\ndeep-translator==1.11.4\npandas==2.0.3\npython-dotenv==1.0.0
